@@ -128,7 +128,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 </div>
 
 <p align="center">
- <img width="1000" src="/snake-game.svg" alt="snake"/>
+ <img width="1000" src="/snake_game.svg" alt="snake"/>
 </p>
 
 
