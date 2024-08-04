@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Shahid!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hanzala+Habib!;" />
 </h1>
 
 <br/>
 
-<h2 align="center">✨ A Passionate MERN Stack Developer! ✨</h2>
+<h2 align="center">✨ A Passionate C++ and Python Programmer! ✨</h2>
 <div align="center">
   
 I'm an enthusiastic student actively diving into the world of software development. The MERN stack (MongoDB, Express.js, React.js, Node.js) has captured my interest, and I'm constantly learning and building projects to solidify my understanding. My passion for problem-solving extends to competitive programming, where I enjoy tackling algorithmic challenges on platforms like LeetCode. If you'd like to chat, I'd love to discuss React, Node.js, JavaScript, or anything related to competitive programming and data structures & algorithms (DSA)!
