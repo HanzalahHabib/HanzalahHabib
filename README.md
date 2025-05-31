@@ -9,7 +9,7 @@
   
 I'm an enthusiastic student actively diving into the world of software development. The MERN stack (MongoDB, Express.js, React.js, Node.js) has captured my interest, and I'm constantly learning and building projects to solidify my understanding. My passion for problem-solving extends to competitive programming, where I enjoy tackling algorithmic challenges on platforms like LeetCode. If you'd like to chat, I'd love to discuss React, Node.js, JavaScript, or anything related to competitive programming and data structures & algorithms (DSA)!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sireyt110) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-shahid-32708a2b7) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sireyt110) [![LinkedIn](www.linkedin.com/in/muhammad-hanzlah-habib-164b8a343) 
 </div>
 ---
 
